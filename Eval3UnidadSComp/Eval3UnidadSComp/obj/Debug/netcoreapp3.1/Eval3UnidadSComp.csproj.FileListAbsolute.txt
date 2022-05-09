@@ -1,0 +1,13 @@
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\bin\Debug\netcoreapp3.1\Eval3UnidadSComp.exe
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\bin\Debug\netcoreapp3.1\Eval3UnidadSComp.deps.json
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\bin\Debug\netcoreapp3.1\Eval3UnidadSComp.runtimeconfig.json
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\bin\Debug\netcoreapp3.1\Eval3UnidadSComp.runtimeconfig.dev.json
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\bin\Debug\netcoreapp3.1\Eval3UnidadSComp.dll
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\bin\Debug\netcoreapp3.1\Eval3UnidadSComp.pdb
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\obj\Debug\netcoreapp3.1\Eval3UnidadSComp.csprojAssemblyReference.cache
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\obj\Debug\netcoreapp3.1\Eval3UnidadSComp.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\obj\Debug\netcoreapp3.1\Eval3UnidadSComp.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\obj\Debug\netcoreapp3.1\Eval3UnidadSComp.AssemblyInfo.cs
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\obj\Debug\netcoreapp3.1\Eval3UnidadSComp.dll
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\obj\Debug\netcoreapp3.1\Eval3UnidadSComp.pdb
+C:\Users\A\source\repos\Eval3UnidadSComp\Eval3UnidadSComp\obj\Debug\netcoreapp3.1\Eval3UnidadSComp.genruntimeconfig.cache
